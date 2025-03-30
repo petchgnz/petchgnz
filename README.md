@@ -5,7 +5,7 @@ Junior Front-End Developer | Game Developer
 -------------------------------------------
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [My Github!](http://https://github.com/petchgnz)
+* 🖥️  See my portfolio at [My Github!](https://github.com/petchgnz)
 * ✉️  You can contact me at [phetchgnz@gmail.com](mailto:phetchgnz@gmail.com)
 * 🧠  I'm learning ReactJS, NextJS, VueJS, Angular and everything about Website Development!
 
