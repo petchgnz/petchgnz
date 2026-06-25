@@ -1,13 +1,13 @@
 Hi 👋 My name is Pummarin Rojanamarn
 ====================================
 
-Junior Front-End Developer | Game Developer
+Junior Full-Stack Developer | Former Game Developer
 -------------------------------------------
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [My Github!](https://github.com/petchgnz)
+* 🖥️  See my portfolio at [My Website!](https://petchgnz.dev/) or [My Github!](https://github.com/petchgnz)
 * ✉️  You can contact me at [phetchgnz@gmail.com](mailto:phetchgnz@gmail.com)
-* 🧠  I'm learning ReactJS, NextJS, VueJS, Angular and everything about Website Development!
+* 🧠  I'm specialized in Next.js, Nest.js, PostgreSQL, and loves to learn everything about Web/App Development!
 
 ## Skills
 ### Languages
@@ -16,7 +16,7 @@ Junior Front-End Developer | Game Developer
 
 ### Framework & Library
 <p align="left">
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJs" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
 ### Tools & Other
@@ -39,6 +39,12 @@ Junior Front-End Developer | Game Developer
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/petchgnz/frontend-workshops" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=petchgnz&repo=frontend-workshops&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/petchgnz/pot-scripts" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=petchgnz&repo=pot-scripts&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/petchgnz/petchgnz-portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=petchgnz&repo=petchgnz-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/petchgnz/chat-app-mern" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=petchgnz&repo=chat-app-mern&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div><br /><br /><br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/petchgnz/todo-app-reactjs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=petchgnz&repo=todo-app-reactjs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/petchgnz/Unity-JaoThin" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=petchgnz&repo=Unity-JaoThin&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center">
+  <a href="https://github.com/petchgnz/metier-assignment" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=petchgnz&repo=metier-assignment&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/petchgnz/petchgnz-link_in_bio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=petchgnz&repo=petchgnz-link_in_bio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
